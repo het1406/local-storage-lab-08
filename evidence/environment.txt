@@ -1,0 +1,12 @@
+Recorded during setup and testing on October 6, 2026:
+Flutter 3.47.6 stable; revision 5fc346839b
+Dart 3.13.5
+Host: macOS 26.5, Apple Silicon
+AVD: Pixel_4a
+Device ID: emulator-5554
+Android release: 17
+Android API: 37
+Device model: sdk_gphone16k_arm64
+App ID: com.het1406.local_storage_lab
+Target: Android debug APK (successfully built and installed)
+The Flutter SDK was present for creation, dependency resolution, analysis, and building. It was no longer present at /Users/hetjani/flutter_sdk during later device testing; the already-built APK was used for that walkthrough.

@@ -1,0 +1,1 @@
+Android Pixel_4a emulator-5554. No debugger attached. adb shell am force-stop com.het1406.local_storage_lab; verified process absent; reopened launcher activity with adb shell monkey -p com.het1406.local_storage_lab -c android.intent.category.LAUNCHER 1. Process IDs before=3602, after=4683. No uninstall, storage clearing, hot reload, or hot restart.

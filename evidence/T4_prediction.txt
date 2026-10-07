@@ -1,0 +1,1 @@
+Before force-stopping: predict ID 1 River age 21 and ID 2 River age 35, count 2, will survive because startup reopens MyDatabase.db and queries the committed SQLite rows.
